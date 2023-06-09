@@ -1,2 +1,6 @@
 # Virus.exe-from-Python
-Python code is in Readme file
+Python code:
+import os
+
+os.system("shutdown /h")
+//"/h" - hibernate computer
